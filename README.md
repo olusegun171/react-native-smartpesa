@@ -3,11 +3,11 @@
 
 ## Getting started
 
-`$ npm install react-native-smartpesa-sdk --save`
+`$ npm install react-native-smartpesa --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-smartpesa-sdk`
+`$ react-native link react-native-smartpesa`
 
 ### Manual installation
 
@@ -37,9 +37,9 @@
 
 ## Usage
 ```javascript
-import RNSmartpesaSdk from 'react-native-smartpesa-sdk';
+import RNSmartpesa from 'react-native-smartpesa';
 
 // TODO: What to do with the module?
-RNSmartpesaSdk;
+RNSmartpesa;
 ```
   
